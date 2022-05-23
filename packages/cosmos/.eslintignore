@@ -1,0 +1,4 @@
+build/*
+
+**/codecimpl.d.ts
+**/codecimpl.js
