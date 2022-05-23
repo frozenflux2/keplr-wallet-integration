@@ -1,0 +1,22 @@
+@@ -1,11 +0,0 @@
+**/*.png
+**/*.svg
+**/*.ttf
+**/*.secret
+**/*.md
+.DS_Store
+
+node_modules
+
+dist/*
+prod/*
+
+yarn.lock
+Podfile.lock
+build.gradle
+
+injected-provider.bundle.js
+
+.gitsecret/*
+*.styl
+.github/*
